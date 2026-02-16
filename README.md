@@ -1,5 +1,7 @@
 # About Me:
-I'm a Computer Science student with diverse interests in the field. <br>I enjoy working on different kinds of projects, exploring new technologies, and continuously improving my skills.<br>Through university projects, professional work experience, and self-initiated projects, I have gained experience working on real-world tasks and applying theoretical knowledge in practice. <br>I’m open to new challenges and discovering where I can best develop and specialize in the future.
+I'm a Computer Science student with diverse interests in the field. <br>I enjoy working on different kinds of projects, exploring new technologies, and continuously improving my skills.<br>Through university projects, professional work experience, and self-initiated projects, I have gained experience working on real-world tasks and applying theoretical knowledge in practice. I work on projects involving microcontrollers, backend systems, and I am particularly interested in optimization to get the best results - Even if it's bridging hardware and software.
+<br>I’m open to new challenges and discovering where I can best develop and specialize in the future.
+Languages: German, Spanish, English, French and some Japanese
 <br>
 
 ## 🌐 Socials:
