@@ -1,5 +1,5 @@
 # About Me:
-<br>I'm a Computer Science student with diverse interests in the field. I enjoy working on different kinds of projects, exploring new technologies, and continuously improving my skills.<br>Through university projects, professional work experience, and self-initiated projects, I have gained experience working on real-world tasks and applying theoretical knowledge in practice. I’m open to new challenges and discovering where I can best develop and specialize in the future.<br>
+I'm a Computer Science student with diverse interests in the field. I enjoy working on different kinds of projects, exploring new technologies, and continuously improving my skills.<br>Through university projects, professional work experience, and self-initiated projects, I have gained experience working on real-world tasks and applying theoretical knowledge in practice. I’m open to new challenges and discovering where I can best develop and specialize in the future.<br>
 
 
 ## 🌐 Socials:
