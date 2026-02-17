@@ -1,6 +1,6 @@
 # About Me:
 I'm a Computer Science student with broad interests in the field. <br>I enjoy working on different kinds of projects, exploring new technologies, and continuously improving my skills.<br>Through university coursework, professional work experience, and self-initiated projects, I have gained experience working on real-world tasks and applying theoretical knowledge to practical. My work includes projects involving microcontrollers, front- and backend systems and helpful algorithms in general, with a particularly focus on optimization to achieve efficient, optimized and robust solutions - Including low-level analysis when necessary, down to the hardware level.
-<br>I’m open to new challenges and discovering where I can best develop and specialize in the future.
+<br>I’m open to new challenges and discovering where I can best develop and specialize in the future.<br>
 Languages: German, Spanish, English, French and some Duolingo Japanese
 <br>
 
